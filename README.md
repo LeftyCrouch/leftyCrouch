@@ -10,7 +10,7 @@
 ### 💼 Some Of my notable past work experience includes
 - Android Engineer for [BlueJeans by Verizon](https://play.google.com/store/apps/details?id=com.bluejeansnet.Base&pcampaignid=web_share)
 - Android Engineer for Verizon XR projects [BlueJeans Spaces](https://vimeo.com/586365006) and [AR Designer](https://vimeo.com/265827502)
-- Part of an innnovation team working on VR/AR projects at @lmco
+- Software Engineer for an innnovation team working on VR/AR projects at [LMCO](https://www.lockheedmartin.com/)
 
 ### 📎 Publications I contributed to
 - [C. Crouch, R. Rabbitz. “Combining VR, AR, Simulation, and the IoT to Create a Digital Twin.” NVIDIA GPU Technology Conference (GTC), May, 2018, San Jose, California.](https://www.nvidia.com/en-us/on-demand/session/gtcsiliconvalley2018-s8879/)
