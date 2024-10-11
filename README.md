@@ -10,7 +10,7 @@
 
 ### 💼 Some Of my notable past work experience includes
 - Android Engineer for [BlueJeans by Verizon](https://play.google.com/store/apps/details?id=com.bluejeansnet.Base&pcampaignid=web_share)
-- Android Engineer for Verizon XR projects [BlueJeans Spaces](https://vimeo.com/586365006) and [AR Designer](https://vimeo.com/265827502)
+- Android Engineer for Verizon XR projects [BlueJeans Spaces](https://www.youtube.com/watch?v=s9Au41ukyn4) and [AR Designer](https://www.verizon.com/about/news/envrmnt-launches-ar-designer-intuitive-platform-makes-it-easy-add-virtual-experiences-mobile)
 - Software Engineer for an innnovation team working on VR/AR projects at [LMCO](https://www.lockheedmartin.com/)
 
 ### 📎 Publications I contributed to
