@@ -5,7 +5,8 @@
 - 🥽 AR / VR technologies
 
 ### 🔨 I am currently working on 
-- Android Gradle project of plugins to reuse and make setting up future projects easier
+- Android Lead for RnD at [Arplo](https://www.arplo.com/)
+- [Android Pokemon App](https://github.com/LeftyCrouch/card-dex)
 
 ### 💼 Some Of my notable past work experience includes
 - Android Engineer for [BlueJeans by Verizon](https://play.google.com/store/apps/details?id=com.bluejeansnet.Base&pcampaignid=web_share)
