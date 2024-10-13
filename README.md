@@ -8,7 +8,7 @@
 - Android Lead for RnD at [Arplo](https://www.arplo.com/)
 - [Android Pokemon App](https://github.com/LeftyCrouch/card-dex)
 
-### 💼 Some Of my notable past work experience includes
+### 💼 Some of my notable past work experience includes
 - Android Engineer for [BlueJeans by Verizon](https://play.google.com/store/apps/details?id=com.bluejeansnet.Base&pcampaignid=web_share)
 - Android Engineer for Verizon XR projects [BlueJeans Spaces](https://www.youtube.com/watch?v=s9Au41ukyn4) and [AR Designer](https://www.verizon.com/about/news/envrmnt-launches-ar-designer-intuitive-platform-makes-it-easy-add-virtual-experiences-mobile)
 - Software Engineer for an innnovation team working on VR/AR projects at [LMCO](https://www.lockheedmartin.com/)
